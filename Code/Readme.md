@@ -1,4 +1,7 @@
 Program title: TerraWatt
+
+Version 1.0 - 29/3/2024
+
 https://github.com/Anhtuhhh/TerraWatt.git
 Usage Notes: This project generates dynamic ocean-inspired wave patterns using p5.js and SVG graphics. The waves animate smoothly, with speed influenced by mouse movement. Clicking saves the artwork as an SVG file. The color palette includes deep blues and fiery reds, creating a visually striking effect. Users can interact by adjusting wave speed through mouse motion.
 
